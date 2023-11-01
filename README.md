@@ -1,0 +1,2 @@
+# dssorting
+setting up git
